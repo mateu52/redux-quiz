@@ -1,0 +1,125 @@
+{
+    "countries": [
+      {
+        "country": "Poland",
+        "capital": "Warsaw"
+      },
+      {
+        "country": "Germany",
+        "capital": "Berlin"
+      },
+      {
+        "country": "France",
+        "capital": "Paris"
+      },
+      {
+        "country": "Italy",
+        "capital": "Rome"
+      },
+      {
+        "country": "Spain",
+        "capital": "Madrid"
+      },
+      {
+        "country": "United States",
+        "capital": "Washington, D.C."
+      },
+      {
+        "country": "Canada",
+        "capital": "Ottawa"
+      },
+      {
+        "country": "Brazil",
+        "capital": "Brasília"
+      },
+      {
+        "country": "India",
+        "capital": "New Delhi"
+      },
+      {
+        "country": "Japan",
+        "capital": "Tokyo"
+      },
+      {
+        "country": "Australia",
+        "capital": "Canberra"
+      },
+      {
+        "country": "United Kingdom",
+        "capital": "London"
+      },
+      {
+        "country": "Mexico",
+        "capital": "Mexico City"
+      },
+      {
+        "country": "Argentina",
+        "capital": "Buenos Aires"
+      },
+      {
+        "country": "Russia",
+        "capital": "Moscow"
+      },
+      {
+        "country": "China",
+        "capital": "Beijing"
+      },
+      {
+        "country": "South Africa",
+        "capital": "Pretoria"
+      },
+      {
+        "country": "Egypt",
+        "capital": "Cairo"
+      },
+      {
+        "country": "Nigeria",
+        "capital": "Abuja"
+      },
+      {
+        "country": "Saudi Arabia",
+        "capital": "Riyadh"
+      },
+      {
+        "country": "Turkey",
+        "capital": "Ankara"
+      },
+      {
+        "country": "South Korea",
+        "capital": "Seoul"
+      },
+      {
+        "country": "Indonesia",
+        "capital": "Jakarta"
+      },
+      {
+        "country": "Thailand",
+        "capital": "Bangkok"
+      },
+      {
+        "country": "Norway",
+        "capital": "Oslo"
+      },
+      {
+        "country": "Sweden",
+        "capital": "Stockholm"
+      },
+      {
+        "country": "Finland",
+        "capital": "Helsinki"
+      },
+      {
+        "country": "Netherlands",
+        "capital": "Amsterdam"
+      },
+      {
+        "country": "Switzerland",
+        "capital": "Bern"
+      },
+      {
+        "country": "Greece",
+        "capital": "Athens"
+      }
+    ]
+  }
+  
